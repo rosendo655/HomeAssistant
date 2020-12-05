@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "IoTService": {
+      "commandName": "Project",
+      "commandLineArgs": "https://f83380cd9e9c.ngrok.io https://06aa073d8176.ngrok.io"
+    }
+  }
+}
